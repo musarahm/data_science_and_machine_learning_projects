@@ -52,6 +52,8 @@ wheels/
 
 # text files
 *.csv
+*.txt
+*.xls
 
 # spyder workspace
 *.spyderworkspace
