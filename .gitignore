@@ -1,0 +1,70 @@
+\.idea/
+
+__pycache__/
+venv
+files/
+*-env
+.env
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.pkl
+
+# pyenv
+.python-version
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# picture files
+*.png
+*.jpg
+*.tif
+*.jpeg
+
+# pdf files
+*.pdf
+
+# word documents
+*.pptx
+
+# text files
+*.csv
+
+# spyder workspace
+*.spyderworkspace
+
+# machine learning models
+*.mdl
+
+# dropbox files
+*.dropbox
+*.ini
+*Icon
+
+# zip file
+*.zip
+*.tgz
+*.bin
