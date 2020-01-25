@@ -68,3 +68,6 @@ wheels/
 *.zip
 *.tgz
 *.bin
+
+#special folders
+/data_ds/
