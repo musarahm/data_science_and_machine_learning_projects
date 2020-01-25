@@ -70,4 +70,4 @@ wheels/
 *.bin
 
 #special folders
-data_ds/
+/data_ds/
