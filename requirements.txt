@@ -39,7 +39,7 @@ clyent==1.2.2
 colorama==0.4.1
 constantly==15.1.0
 contextlib2==0.6.0.post1
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 cymem==1.31.2
 Cython==0.29.14
