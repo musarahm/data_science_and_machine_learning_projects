@@ -63,7 +63,7 @@ flake8==3.7.9
 flake8-polyfill==1.0.2
 flake8-quotes==2.1.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 folium==0.8.3
 fsspec==0.6.0
 gast==0.3.2
