@@ -266,7 +266,7 @@ tqdm==4.39.0
 traitlets==4.3.3
 Twisted==19.10.0
 typing==3.6.4
-ujson==1.35
+ujson==5.4.0
 unicodecsv==0.14.1
 urllib3==1.24.2
 vincent==0.4.4
