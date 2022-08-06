@@ -3,7 +3,7 @@
 
 * The first project is about Recession effect on Housing Prices from University Towns.
 * The second project is a Kaggle project which involves predicting the sales price for each house.
-* This third project is about working with a company's email network
+* This third project is about working with a company's email networks
 * The fourth project is a Data Visualization project about the correlation between Life Satisfaction and GDP per capita of some of the developed and developing nations.
  
 ## Directory Description
